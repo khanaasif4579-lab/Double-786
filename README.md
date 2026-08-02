@@ -1,4 +1,4 @@
-## Apne Phone Par Studio Setup Karne Ka Tarika
+i## Apne Phone Par Studio Setup Karne Ka Tarika
 Aap apne mobile phone ko ek powerful mobile recording aur production studio me badal sakte hain. Iske liye aapko hardware (equipment) aur software (apps) dono ko sahi tarike se integrate karna hoga.
 
 ### 1. Zaroori Software (Mobile Apps)
